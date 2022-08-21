@@ -1,8 +1,8 @@
 ## Todo App
 
-<img src="https://github.com/judesafe/todo/blob/master/public/assets/todo.PNG" raw=true>
+<img src="https://github.com/jude4/todo/blob/master/public/assets/todo.PNG" raw=true>
 
-This is a Todo application built with NodeJs and expressJs for the backend and TailwindCss for the styling the page.
+This is a simple todo application, built with NodeJs and expressJs for the backend and TailwindCss for the styling the page.
 
 ## Prerequisite
 Must have a basic knowledge of the following web technologies:
